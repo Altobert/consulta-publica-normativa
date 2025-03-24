@@ -1,4 +1,5 @@
 <template>
+  <!-- esta sera la pagina principal del buscador -->
   <div class="container">
     <div class="row">
       <div class="col-12">

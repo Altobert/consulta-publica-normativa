@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import PrincipalBuscador from '@/components/PrincipalBuscador.vue';
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <PrincipalBuscador />
   </main>
 </template>
