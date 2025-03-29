@@ -1,14 +1,10 @@
 <template>
-  <div>
-    <h1>Buscador</h1>
-    <p>Esta pagina contiene un buscador tipo google</p>
-  </div>
+   <h2>Buscador</h2>
+   <p>Esta pagina contiene un buscador tipo google</p>
 </template>
 
-<script>
-export default {
+<script setup>
 
-}
 </script>
 
 <style>

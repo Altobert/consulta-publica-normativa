@@ -1,7 +1,5 @@
 <template>
-  <div class="container">
-    <h1>Cabecera</h1>
-  </div>
+  <h1>Cabecera</h1>
 </template>
 
 <script setup>

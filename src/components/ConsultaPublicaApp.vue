@@ -6,8 +6,6 @@
     <AccesoOtrasRespuestas/>
     <ResultadosBusqueda/>
     <PiePagina/>
-    <h1>Consulta Pública</h1>
-    <p>Esta es la página principal de la aplicación.</p>
   </div>
 </template>
 
