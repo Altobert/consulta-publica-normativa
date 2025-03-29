@@ -2,7 +2,7 @@
 <template>
   <div class="container">
     <h1>Acceso</h1>
-    <p>Acceso a la aplicación</p>
+    <p>Botones Aplicacion</p>
   </div>
 </template>
 
