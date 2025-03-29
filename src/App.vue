@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <ConsultaPublicaApp/>
-    kjhkjhkjh
   </div>
 </template>
 <script setup>
